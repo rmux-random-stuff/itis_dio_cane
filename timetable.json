@@ -1,0 +1,226 @@
+{
+  "school": {
+    "name": "ITIS Don Morosini",
+    "location": "Ferentino",
+    "year": "2023-2024"
+  },
+  "classes": [
+    {
+      "class_id": "1A",
+      "section": "Informatica",
+      "year": 1,
+      "timetable": {
+        "Monday": [
+          {
+            "period": 1,
+            "start_time": "08:00",
+            "end_time": "09:00",
+            "subject": "Italiano",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 2,
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "subject": "Matematica",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 3,
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "subject": "Inglese",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 4,
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "subject": "Scienze",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 5,
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "subject": "Informatica",
+            "teacher": "",
+            "room": ""
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "start_time": "08:00",
+            "end_time": "09:00",
+            "subject": "Storia",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 2,
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "subject": "Matematica",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 3,
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "subject": "Tecnologie Informatiche",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 4,
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "subject": "Tecnologie Informatiche",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 5,
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "subject": "Educazione Fisica",
+            "teacher": "",
+            "room": ""
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "start_time": "08:00",
+            "end_time": "09:00",
+            "subject": "Italiano",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 2,
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "subject": "Diritto ed Economia",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 3,
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "subject": "Scienze e Tecnologie Applicate",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 4,
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "subject": "Matematica",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 5,
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "subject": "Inglese",
+            "teacher": "",
+            "room": ""
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "start_time": "08:00",
+            "end_time": "09:00",
+            "subject": "Geografia",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 2,
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "subject": "Chimica",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 3,
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "subject": "Informatica",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 4,
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "subject": "Matematica",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 5,
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "subject": "Italiano",
+            "teacher": "",
+            "room": ""
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "start_time": "08:00",
+            "end_time": "09:00",
+            "subject": "Religione",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 2,
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "subject": "Disegno e Storia dell'Arte",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 3,
+            "start_time": "10:00",
+            "end_time": "11:00",
+            "subject": "Fisica",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 4,
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "subject": "Inglese",
+            "teacher": "",
+            "room": ""
+          },
+          {
+            "period": 5,
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "subject": "Educazione Fisica",
+            "teacher": "",
+            "room": ""
+          }
+        ]
+      }
+    }
+  ]
+}
