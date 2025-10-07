@@ -1,0 +1,123 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "SPIRITO",
+            "[FISICA]",
+            "INCELLI"
+        ],
+        "ora_2": [
+            "PARIS",
+            "INCELLI"
+        ],
+        "ora_3": [
+            "FOLCA",
+            "INCELLI"
+        ],
+        "ora_4": [
+            "ZOMPARELLI",
+            "INCELLI"
+        ],
+        "ora_5": [
+            "FRIONI"
+        ],
+        "ora_6": [
+            "[MAT]"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "FOLCA",
+            "INCELLI"
+        ],
+        "ora_2": [
+            "[MAT]",
+            "INCELLI"
+        ],
+        "ora_3": [
+            "ZACCARI",
+            "FRIONI",
+            "INCELLI"
+        ],
+        "ora_4": [
+            "[REL]",
+            "INCELLI"
+        ],
+        "ora_5": [
+            "VALENTINO",
+            "INCELLI"
+        ],
+        "ora_6": [
+            "[FISICA]"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "[FISICA]",
+            "INCELLI"
+        ],
+        "ora_2": [
+            "[DIR]",
+            "INCELLI"
+        ],
+        "ora_3": [
+            "[MAT]",
+            "INCELLI"
+        ],
+        "ora_4": [
+            "CONTI",
+            "ZOMPARELLI",
+            "INCELLI"
+        ],
+        "ora_5": [
+            "PARIS",
+            "INCELLI"
+        ],
+        "ora_6": [
+            "PREZIOSI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "PREZIOSI",
+            "INCELLI"
+        ],
+        "ora_2": [
+            "BRAGALONE",
+            "INCELLI"
+        ],
+        "ora_3": [
+            "BRAGALONE"
+        ],
+        "ora_4": [
+            "[MAT]"
+        ],
+        "ora_5": [
+            "PARIS"
+        ],
+        "ora_6": [
+            "PARIS"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "FOLCA",
+            "INCELLI"
+        ],
+        "ora_2": [
+            "ZOMPARELLI",
+            "INCELLI"
+        ],
+        "ora_3": [
+            "PARIS"
+        ],
+        "ora_4": [
+            "PARIS"
+        ],
+        "ora_5": [
+            "VALENTINO"
+        ],
+        "ora_6": [
+            "[DIR]"
+        ]
+    }
+}

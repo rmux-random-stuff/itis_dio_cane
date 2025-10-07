@@ -1,0 +1,106 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "[MAT]"
+        ],
+        "ora_2": [
+            "ZOMPARELLI"
+        ],
+        "ora_3": [
+            "[CHI]"
+        ],
+        "ora_4": [
+            "SCALIA"
+        ],
+        "ora_5": [
+            "BELLIS"
+        ],
+        "ora_6": [
+            "BELLIS"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "ZOMPARELLI"
+        ],
+        "ora_2": [
+            "CAPRIA"
+        ],
+        "ora_3": [
+            "GIAMMARCO"
+        ],
+        "ora_4": [
+            "SCALIA"
+        ],
+        "ora_5": [
+            "SCALIA"
+        ],
+        "ora_6": [
+            "[REL]"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "ZOMPARELLI"
+        ],
+        "ora_2": [
+            "[CHI]"
+        ],
+        "ora_3": [
+            "SCALIA"
+        ],
+        "ora_4": [
+            "CAPRIA"
+        ],
+        "ora_5": [
+            "[FISICA]"
+        ],
+        "ora_6": [
+            "LANCIANI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "ZACCARI",
+            "[CHI]"
+        ],
+        "ora_2": [
+            "MAGLIOCCHETTI"
+        ],
+        "ora_3": [
+            "[MAT]"
+        ],
+        "ora_4": [
+            "SCALIA"
+        ],
+        "ora_5": [
+            "SPIRITO",
+            "[FISICA]"
+        ],
+        "ora_6": [
+            "CAPRIA"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "LANCIANI"
+        ],
+        "ora_2": [
+            "COSTANTINI",
+            "GIAMMARCO"
+        ],
+        "ora_3": [
+            "COSTANTINI",
+            "GIAMMARCO"
+        ],
+        "ora_4": [
+            "[MAT]"
+        ],
+        "ora_5": [
+            "[MAT]"
+        ],
+        "ora_6": [
+            "[GEO]"
+        ]
+    }
+}

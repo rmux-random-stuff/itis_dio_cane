@@ -1,0 +1,109 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "SERAFINI"
+        ],
+        "ora_2": [
+            "MINGARELLI"
+        ],
+        "ora_3": [
+            "MINGARELLI"
+        ],
+        "ora_4": [
+            "VARONE"
+        ],
+        "ora_5": [
+            "MASSETI"
+        ],
+        "ora_6": [
+            "ATTI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "MINGARELLI"
+        ],
+        "ora_2": [
+            "MINGARELLI"
+        ],
+        "ora_3": [
+            "MASSA",
+            "CIPRIANI"
+        ],
+        "ora_4": [
+            "MASSA",
+            "CIPRIANI"
+        ],
+        "ora_5": [
+            "CESARI",
+            "ATTI"
+        ],
+        "ora_6": [
+            "CESARI",
+            "ATTI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "MASSETI"
+        ],
+        "ora_2": [
+            "MINGARELLI"
+        ],
+        "ora_3": [
+            "NICOLIA",
+            "FERAZZOLI"
+        ],
+        "ora_4": [
+            "NICOLIA",
+            "FERAZZOLI"
+        ],
+        "ora_5": [
+            "CIPRIANI"
+        ],
+        "ora_6": [
+            "ATTI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "MASSETI"
+        ],
+        "ora_2": [
+            "SERAFINI"
+        ],
+        "ora_3": [
+            "[REL]"
+        ],
+        "ora_4": [
+            "BRAGALONE"
+        ],
+        "ora_5": [
+            "BRAGALONE"
+        ],
+        "ora_6": [
+            "NICOLIA",
+            "VARONE"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "ATTI"
+        ],
+        "ora_2": [
+            "CIPRIANI"
+        ],
+        "ora_3": [
+            "VARONE"
+        ],
+        "ora_4": [
+            "MINGARELLI"
+        ],
+        "ora_5": [
+            "SERAFINI"
+        ],
+        "ora_6": [
+            "MASSETI"
+        ]
+    }
+}

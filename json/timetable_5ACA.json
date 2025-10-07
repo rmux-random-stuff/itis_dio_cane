@@ -1,0 +1,118 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "CELLITTI",
+            "VENTURI"
+        ],
+        "ora_2": [
+            "CELLITTI",
+            "VENTURI",
+            "PERRUZZA"
+        ],
+        "ora_3": [
+            "SCIALO'",
+            "PERRUZZA"
+        ],
+        "ora_4": [
+            "ROSSIGNOLI"
+        ],
+        "ora_5": [
+            "BIONDI"
+        ],
+        "ora_6": [
+            "BIONDI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "ROSSIGNOLI"
+        ],
+        "ora_2": [
+            "[AER]"
+        ],
+        "ora_3": [
+            "[AER]"
+        ],
+        "ora_4": [
+            "MAURO"
+        ],
+        "ora_5": [
+            "SCIALO'",
+            "PERRUZZA"
+        ],
+        "ora_6": [
+            "CELLITTI",
+            "VENTURI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "ROSSIGNOLI",
+            "PERRUZZA"
+        ],
+        "ora_2": [
+            "SCIALO'"
+        ],
+        "ora_3": [
+            "[AER]"
+        ],
+        "ora_4": [
+            "[AER]",
+            "PERRUZZA"
+        ],
+        "ora_5": [
+            "FOLCA"
+        ],
+        "ora_6": [
+            "CORONELLA"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "VENTURI",
+            "PERRUZZA"
+        ],
+        "ora_2": [
+            "CORONELLA",
+            "PERRUZZA"
+        ],
+        "ora_3": [
+            "FOLCA"
+        ],
+        "ora_4": [
+            "SCIALO'"
+        ],
+        "ora_5": [
+            "CELLITTI",
+            "VENTURI"
+        ],
+        "ora_6": [
+            "CELLITTI",
+            "VENTURI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "SCIALO'",
+            "PERRUZZA"
+        ],
+        "ora_2": [
+            "SCIALO'"
+        ],
+        "ora_3": [
+            "FOLCA",
+            "PERRUZZA"
+        ],
+        "ora_4": [
+            "CECI",
+            "TROPEANO"
+        ],
+        "ora_5": [
+            "CECI",
+            "TROPEANO"
+        ],
+        "ora_6": [
+            "VENTURI"
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "MAIURI"
+        ],
+        "ora_2": [
+            "PREZIOSI"
+        ],
+        "ora_3": [
+            "[MAT]"
+        ],
+        "ora_4": [
+            "[MAT]"
+        ],
+        "ora_5": [
+            "CAPRIA"
+        ],
+        "ora_6": [
+            "ZAMPINI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "[MAT]"
+        ],
+        "ora_2": [
+            "ZACCARI",
+            "[CHI]"
+        ],
+        "ora_3": [
+            "SPIRITO",
+            "STRACCAMORE"
+        ],
+        "ora_4": [
+            "PREZIOSI"
+        ],
+        "ora_5": [
+            "NEGLIA"
+        ],
+        "ora_6": [
+            "[DIS]"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "CAPRIA"
+        ],
+        "ora_2": [
+            "STRACCAMORE"
+        ],
+        "ora_3": [
+            "MAIURI"
+        ],
+        "ora_4": [
+            "MAIURI"
+        ],
+        "ora_5": [
+            "[REL]"
+        ],
+        "ora_6": [
+            "ZAMPINI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "NEGLIA"
+        ],
+        "ora_2": [
+            "CONTI",
+            "[DIS]"
+        ],
+        "ora_3": [
+            "[CHI]"
+        ],
+        "ora_4": [
+            "CAPRIA"
+        ],
+        "ora_5": [
+            "MAIURI"
+        ],
+        "ora_6": [
+            "MAIURI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "NEGLIA"
+        ],
+        "ora_2": [
+            "[MAT]"
+        ],
+        "ora_3": [
+            "STRACCAMORE"
+        ],
+        "ora_4": [
+            "[CHI]"
+        ],
+        "ora_5": [
+            "BELLIS"
+        ],
+        "ora_6": [
+            "BELLIS"
+        ]
+    }
+}

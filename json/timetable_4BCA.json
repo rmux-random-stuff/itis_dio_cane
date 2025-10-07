@@ -1,0 +1,127 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "BRAGALONE",
+            "VOLANTE"
+        ],
+        "ora_2": [
+            "BRAGALONE",
+            "VOLANTE"
+        ],
+        "ora_3": [
+            "CELLITTI",
+            "ARPANTE",
+            "VOLANTE"
+        ],
+        "ora_4": [
+            "ARPANTE"
+        ],
+        "ora_5": [
+            "POLLETTA"
+        ],
+        "ora_6": [
+            "SCHIOPPA"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "ZACCARDI",
+            "VOLANTE"
+        ],
+        "ora_2": [
+            "POLLETTA",
+            "VOLANTE"
+        ],
+        "ora_3": [
+            "AERONAUTICA",
+            "VOLANTE"
+        ],
+        "ora_4": [
+            "CECI",
+            "TROPEANO",
+            "VOLANTE"
+        ],
+        "ora_5": [
+            "CECI",
+            "TROPEANO",
+            "VOLANTE"
+        ],
+        "ora_6": [
+            "VISCA"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "ZACCARDI"
+        ],
+        "ora_2": [
+            "SCHIOPPA"
+        ],
+        "ora_3": [
+            "[MECC]",
+            "AERONAUTICA",
+            "VOLANTE"
+        ],
+        "ora_4": [
+            "[MECC]",
+            "AERONAUTICA",
+            "VOLANTE"
+        ],
+        "ora_5": [
+            "CELLITTI",
+            "ARPANTE",
+            "VOLANTE"
+        ],
+        "ora_6": [
+            "CELLITTI",
+            "ARPANTE",
+            "VOLANTE"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "TROPEANO"
+        ],
+        "ora_2": [
+            "ZAMPINI"
+        ],
+        "ora_3": [
+            "SCHIOPPA",
+            "VOLANTE"
+        ],
+        "ora_4": [
+            "POLLETTA",
+            "VOLANTE"
+        ],
+        "ora_5": [
+            "POLLETTA",
+            "VOLANTE"
+        ],
+        "ora_6": [
+            "ARPANTE",
+            "VOLANTE"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "ZACCARDI"
+        ],
+        "ora_2": [
+            "MAURO"
+        ],
+        "ora_3": [
+            "ZAMPINI"
+        ],
+        "ora_4": [
+            "POLLETTA"
+        ],
+        "ora_5": [
+            "POLLETTA",
+            "VOLANTE"
+        ],
+        "ora_6": [
+            "VISCA",
+            "VOLANTE"
+        ]
+    }
+}

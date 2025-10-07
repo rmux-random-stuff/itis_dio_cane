@@ -1,0 +1,116 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "BUFFONE"
+        ],
+        "ora_2": [
+            "SERAFINI"
+        ],
+        "ora_3": [
+            "LANCIANI",
+            "TANZI"
+        ],
+        "ora_4": [
+            "[FISICA]",
+            "TANZI"
+        ],
+        "ora_5": [
+            "RENZITTI",
+            "TANZI"
+        ],
+        "ora_6": [
+            "RENZITTI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "RENZITTI"
+        ],
+        "ora_2": [
+            "RAMUNDO"
+        ],
+        "ora_3": [
+            "BUFFONE",
+            "TANZI"
+        ],
+        "ora_4": [
+            "LANCIANI"
+        ],
+        "ora_5": [
+            "ZACCARI",
+            "FRIONI"
+        ],
+        "ora_6": [
+            "SERAFINI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "COSTANTINI",
+            "RAMUNDO"
+        ],
+        "ora_2": [
+            "COSTANTINI",
+            "RAMUNDO"
+        ],
+        "ora_3": [
+            "CESARI",
+            "GIOVANNONE",
+            "TANZI"
+        ],
+        "ora_4": [
+            "RENZITTI"
+        ],
+        "ora_5": [
+            "BUFFONE"
+        ],
+        "ora_6": [
+            "BUFFONE",
+            "TANZI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "BIONDI"
+        ],
+        "ora_2": [
+            "BIONDI"
+        ],
+        "ora_3": [
+            "SERAFINI",
+            "TANZI"
+        ],
+        "ora_4": [
+            "RENZITTI"
+        ],
+        "ora_5": [
+            "GIOVANNONE"
+        ],
+        "ora_6": [
+            "MAGLIOCCHETTI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "FRIONI"
+        ],
+        "ora_2": [
+            "RENZITTI"
+        ],
+        "ora_3": [
+            "SPIRITO",
+            "[FISICA]"
+        ],
+        "ora_4": [
+            "MAGLIOCCHETTI",
+            "TANZI"
+        ],
+        "ora_5": [
+            "[GEO]",
+            "TANZI"
+        ],
+        "ora_6": [
+            "GIOVANNONE"
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "CICCARELLI"
+        ],
+        "ora_2": [
+            "AERONAUTICA"
+        ],
+        "ora_3": [
+            "RENZITTI"
+        ],
+        "ora_4": [
+            "RENZITTI"
+        ],
+        "ora_5": [
+            "GUGLIETTI",
+            "NEGLIA"
+        ],
+        "ora_6": [
+            "GUGLIETTI",
+            "NEGLIA"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "CAPRIA"
+        ],
+        "ora_2": [
+            "CORONELLA"
+        ],
+        "ora_3": [
+            "NEGLIA"
+        ],
+        "ora_4": [
+            "MARCOCCIA"
+        ],
+        "ora_5": [
+            "VISCA"
+        ],
+        "ora_6": [
+            "SCACCIA",
+            "AERONAUTICA"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "MAURO"
+        ],
+        "ora_2": [
+            "RENZITTI"
+        ],
+        "ora_3": [
+            "RENZITTI"
+        ],
+        "ora_4": [
+            "CORONELLA"
+        ],
+        "ora_5": [
+            "MARCOCCIA"
+        ],
+        "ora_6": [
+            "CICCARELLI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "RENZITTI"
+        ],
+        "ora_2": [
+            "MARCOCCIA"
+        ],
+        "ora_3": [
+            "VISCA"
+        ],
+        "ora_4": [
+            "VISCA"
+        ],
+        "ora_5": [
+            "CAPRIA"
+        ],
+        "ora_6": [
+            "AERONAUTICA"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "RENZITTI"
+        ],
+        "ora_2": [
+            "AERONAUTICA"
+        ],
+        "ora_3": [
+            "BELLIS"
+        ],
+        "ora_4": [
+            "BELLIS"
+        ],
+        "ora_5": [
+            "MARCOCCIA"
+        ],
+        "ora_6": [
+            "CAPRIA"
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "SCIALO'",
+            "CIUFFARELLA"
+        ],
+        "ora_2": [
+            "SCIALO'",
+            "CIUFFARELLA"
+        ],
+        "ora_3": [
+            "[MAT]",
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "CELLITTI",
+            "VISCA",
+            "CIUFFARELLA"
+        ],
+        "ora_5": [
+            "CELLITTI",
+            "VISCA"
+        ],
+        "ora_6": [
+            "MAURO"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "[MAT]"
+        ],
+        "ora_2": [
+            "VISCA"
+        ],
+        "ora_3": [
+            "VISCA",
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "SCIALO'",
+            "CIUFFARELLA"
+        ],
+        "ora_5": [
+            "VENTURI",
+            "CIUFFARELLA"
+        ],
+        "ora_6": [
+            "CECI",
+            "TROPEANO",
+            "CIUFFARELLA"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "VISCA"
+        ],
+        "ora_2": [
+            "VISCA"
+        ],
+        "ora_3": [
+            "SCIALO'",
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "VENTURI",
+            "CIUFFARELLA"
+        ],
+        "ora_5": [
+            "CORONELLA",
+            "CIUFFARELLA"
+        ],
+        "ora_6": [
+            "FOLCA",
+            "CIUFFARELLA"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "CORONELLA"
+        ],
+        "ora_2": [
+            "VENTURI"
+        ],
+        "ora_3": [
+            "SCIALO'",
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "FOLCA",
+            "CIUFFARELLA"
+        ],
+        "ora_5": [
+            "TROPEANO",
+            "CIUFFARELLA"
+        ],
+        "ora_6": [
+            "CHIAPPINI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "[MAT]",
+            "CIUFFARELLA"
+        ],
+        "ora_2": [
+            "[MAT]",
+            "CIUFFARELLA"
+        ],
+        "ora_3": [
+            "SCIALO'",
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "CELLITTI",
+            "VENTURI"
+        ],
+        "ora_5": [
+            "CELLITTI",
+            "VENTURI"
+        ],
+        "ora_6": [
+            "FOLCA"
+        ]
+    }
+}

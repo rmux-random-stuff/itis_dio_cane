@@ -1,0 +1,112 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "CONTI",
+            "STACCONE"
+        ],
+        "ora_2": [
+            "CONTI",
+            "STACCONE"
+        ],
+        "ora_3": [
+            "CESARI",
+            "FERAZZOLI"
+        ],
+        "ora_4": [
+            "CESARI",
+            "FERAZZOLI"
+        ],
+        "ora_5": [
+            "MASSA",
+            "SIENA"
+        ],
+        "ora_6": [
+            "MASSA",
+            "SIENA"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "CATALDI"
+        ],
+        "ora_2": [
+            "[MECC]",
+            "STACCONE"
+        ],
+        "ora_3": [
+            "[MECC]",
+            "STACCONE"
+        ],
+        "ora_4": [
+            "NOVIELLO"
+        ],
+        "ora_5": [
+            "MINGARELLI"
+        ],
+        "ora_6": [
+            "MINGARELLI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "FERAZZOLI"
+        ],
+        "ora_2": [
+            "NOVIELLO"
+        ],
+        "ora_3": [
+            "MINGARELLI"
+        ],
+        "ora_4": [
+            "CATALDI"
+        ],
+        "ora_5": [
+            "SIENA"
+        ],
+        "ora_6": [
+            "SIENA"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "STACCONE"
+        ],
+        "ora_2": [
+            "FERAZZOLI"
+        ],
+        "ora_3": [
+            "STACCONE"
+        ],
+        "ora_4": [
+            "CATALDI"
+        ],
+        "ora_5": [
+            "NOVIELLO"
+        ],
+        "ora_6": [
+            "BRAGALONE"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "FERAZZOLI"
+        ],
+        "ora_2": [
+            "[REL]"
+        ],
+        "ora_3": [
+            "CONTI",
+            "STACCONE"
+        ],
+        "ora_4": [
+            "CONTI",
+            "STACCONE"
+        ],
+        "ora_5": [
+            "MINGARELLI"
+        ],
+        "ora_6": [
+            "MINGARELLI"
+        ]
+    }
+}

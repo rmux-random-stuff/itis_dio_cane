@@ -1,0 +1,114 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "[CHI]"
+        ],
+        "ora_2": [
+            "[MAT]"
+        ],
+        "ora_3": [
+            "STRACCAMORE"
+        ],
+        "ora_4": [
+            "CAPRIA",
+            "ONOFRI"
+        ],
+        "ora_5": [
+            "MINGARELLI",
+            "ONOFRI"
+        ],
+        "ora_6": [
+            "MINGARELLI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "SPIRITO",
+            "STRACCAMORE"
+        ],
+        "ora_2": [
+            "[MAT]"
+        ],
+        "ora_3": [
+            "MINGARELLI",
+            "ONOFRI"
+        ],
+        "ora_4": [
+            "[DIS]"
+        ],
+        "ora_5": [
+            "MAGLIOCCHETTI"
+        ],
+        "ora_6": [
+            "NEGLIA"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "MINGARELLI"
+        ],
+        "ora_2": [
+            "CAPRIA"
+        ],
+        "ora_3": [
+            "[CHI]"
+        ],
+        "ora_4": [
+            "[MAT]",
+            "ONOFRI"
+        ],
+        "ora_5": [
+            "LANCIANI",
+            "ONOFRI"
+        ],
+        "ora_6": [
+            "NEGLIA"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "BELLIS"
+        ],
+        "ora_2": [
+            "BELLIS"
+        ],
+        "ora_3": [
+            "CONTI",
+            "[DIS]",
+            "ONOFRI"
+        ],
+        "ora_4": [
+            "MAGLIOCCHETTI",
+            "ONOFRI"
+        ],
+        "ora_5": [
+            "MINGARELLI"
+        ],
+        "ora_6": [
+            "MINGARELLI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "[DIS]"
+        ],
+        "ora_2": [
+            "LANCIANI",
+            "ONOFRI"
+        ],
+        "ora_3": [
+            "ZACCARI",
+            "[CHI]",
+            "ONOFRI"
+        ],
+        "ora_4": [
+            "CAPRIA"
+        ],
+        "ora_5": [
+            "NEGLIA"
+        ],
+        "ora_6": [
+            "[MAT]"
+        ]
+    }
+}

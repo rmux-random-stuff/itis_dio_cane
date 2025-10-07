@@ -1,0 +1,114 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "AERONAUTICA",
+            "EVANGELISTA"
+        ],
+        "ora_2": [
+            "CIUFFARELLA"
+        ],
+        "ora_3": [
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "STRACCAMORE"
+        ],
+        "ora_5": [
+            "ROSSIGNOLI"
+        ],
+        "ora_6": [
+            "ZOMPARELLI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "[CHI]"
+        ],
+        "ora_2": [
+            "ZOMPARELLI",
+            "EVANGELISTA"
+        ],
+        "ora_3": [
+            "MAURO"
+        ],
+        "ora_4": [
+            "SPIRITO",
+            "STRACCAMORE",
+            "EVANGELISTA"
+        ],
+        "ora_5": [
+            "ROSSIGNOLI"
+        ],
+        "ora_6": [
+            "BELLIS"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "CIUFFARELLA"
+        ],
+        "ora_2": [
+            "LANCIANI",
+            "EVANGELISTA"
+        ],
+        "ora_3": [
+            "ROSSIGNOLI"
+        ],
+        "ora_4": [
+            "ROSSIGNOLI",
+            "EVANGELISTA"
+        ],
+        "ora_5": [
+            "CONTI",
+            "ZOMPARELLI"
+        ],
+        "ora_6": [
+            "NOVIELLO"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "CIUFFARELLA"
+        ],
+        "ora_2": [
+            "[CHI]",
+            "EVANGELISTA"
+        ],
+        "ora_3": [
+            "LANCIANI"
+        ],
+        "ora_4": [
+            "NOVIELLO",
+            "EVANGELISTA"
+        ],
+        "ora_5": [
+            "AERONAUTICA",
+            "EVANGELISTA"
+        ],
+        "ora_6": [
+            "STRACCAMORE"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "AERONAUTICA",
+            "EVANGELISTA"
+        ],
+        "ora_2": [
+            "NOVIELLO"
+        ],
+        "ora_3": [
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "CIUFFARELLA"
+        ],
+        "ora_5": [
+            "PREZIOSI"
+        ],
+        "ora_6": [
+            "ZACCARI",
+            "[CHI]"
+        ]
+    }
+}

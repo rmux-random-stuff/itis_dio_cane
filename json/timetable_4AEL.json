@@ -1,0 +1,137 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "GUGLIETTI",
+            "GIAMMARCO",
+            "ONOFRI"
+        ],
+        "ora_2": [
+            "GUGLIETTI",
+            "GIAMMARCO",
+            "ONOFRI"
+        ],
+        "ora_3": [
+            "MASSETI",
+            "ONOFRI"
+        ],
+        "ora_4": [
+            "SCIALO'",
+            "PAPETTI"
+        ],
+        "ora_5": [
+            "D'ONORIO",
+            "COCCO",
+            "PAPETTI"
+        ],
+        "ora_6": [
+            "D'ONORIO",
+            "COCCO",
+            "PAPETTI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "GIAMMARCO",
+            "ONOFRI"
+        ],
+        "ora_2": [
+            "[REL]",
+            "ONOFRI"
+        ],
+        "ora_3": [
+            "COCCO",
+            "PAPETTI"
+        ],
+        "ora_4": [
+            "MASSETI",
+            "PAPETTI"
+        ],
+        "ora_5": [
+            "ZACCARDI",
+            "PAPETTI"
+        ],
+        "ora_6": [
+            "SCIALO'",
+            "PAPETTI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "SCIALO'",
+            "ONOFRI"
+        ],
+        "ora_2": [
+            "D'ONORIO",
+            "NEGLIA",
+            "ONOFRI"
+        ],
+        "ora_3": [
+            "D'ONORIO",
+            "NEGLIA",
+            "PAPETTI"
+        ],
+        "ora_4": [
+            "ZACCARDI",
+            "PAPETTI"
+        ],
+        "ora_5": [
+            "MASSETI",
+            "PAPETTI"
+        ],
+        "ora_6": [
+            "GIAMMARCO",
+            "PAPETTI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "ZACCARDI",
+            "ONOFRI"
+        ],
+        "ora_2": [
+            "NEGLIA",
+            "PAPETTI"
+        ],
+        "ora_3": [
+            "MASSETI",
+            "PAPETTI"
+        ],
+        "ora_4": [
+            "CHIAPPINI",
+            "PAPETTI"
+        ],
+        "ora_5": [
+            "CHIAPPINI"
+        ],
+        "ora_6": [
+            "SCIALO'"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "COCCO",
+            "ONOFRI"
+        ],
+        "ora_2": [
+            "D'ONORIO",
+            "COCCO",
+            "PAPETTI"
+        ],
+        "ora_3": [
+            "D'ONORIO",
+            "NEGLIA",
+            "PAPETTI"
+        ],
+        "ora_4": [
+            "NEGLIA",
+            "PAPETTI"
+        ],
+        "ora_5": [
+            "SCIALO'",
+            "PAPETTI"
+        ],
+        "ora_6": [
+            "SCIALO'"
+        ]
+    }
+}

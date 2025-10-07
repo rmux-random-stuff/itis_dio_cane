@@ -1,0 +1,110 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "D'ONORIO",
+            "DEBELAK"
+        ],
+        "ora_2": [
+            "D'ONORIO",
+            "DEBELAK"
+        ],
+        "ora_3": [
+            "ZACCARDI"
+        ],
+        "ora_4": [
+            "[REL]"
+        ],
+        "ora_5": [
+            "CHIAPPINI"
+        ],
+        "ora_6": [
+            "CHIAPPINI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "[MAT]"
+        ],
+        "ora_2": [
+            "GIAMMARCO"
+        ],
+        "ora_3": [
+            "DEBELAK"
+        ],
+        "ora_4": [
+            "ZACCARDI"
+        ],
+        "ora_5": [
+            "CIUFFARELLA"
+        ],
+        "ora_6": [
+            "CIUFFARELLA"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "[MAT]"
+        ],
+        "ora_2": [
+            "[MAT]"
+        ],
+        "ora_3": [
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "D'ONORIO",
+            "GIAMMARCO"
+        ],
+        "ora_5": [
+            "GIAMMARCO"
+        ],
+        "ora_6": [
+            "D'AMBROSIO"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "DEBELAK"
+        ],
+        "ora_2": [
+            "CIUFFARELLA"
+        ],
+        "ora_3": [
+            "CIUFFARELLA"
+        ],
+        "ora_4": [
+            "ZACCARDI"
+        ],
+        "ora_5": [
+            "D'ONORIO",
+            "GIAMMARCO"
+        ],
+        "ora_6": [
+            "D'ONORIO",
+            "GIAMMARCO"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "GUGLIETTI",
+            "D'AMBROSIO"
+        ],
+        "ora_2": [
+            "GUGLIETTI",
+            "D'AMBROSIO"
+        ],
+        "ora_3": [
+            "DEBELAK"
+        ],
+        "ora_4": [
+            "D'ONORIO",
+            "DEBELAK"
+        ],
+        "ora_5": [
+            "DEBELAK"
+        ],
+        "ora_6": [
+            "CIUFFARELLA"
+        ]
+    }
+}

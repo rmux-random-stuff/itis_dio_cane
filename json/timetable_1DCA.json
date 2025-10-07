@@ -1,0 +1,107 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "LANCIANI"
+        ],
+        "ora_2": [
+            "[ITA]"
+        ],
+        "ora_3": [
+            "[ITA]"
+        ],
+        "ora_4": [
+            "BRAGALONE"
+        ],
+        "ora_5": [
+            "BRAGALONE"
+        ],
+        "ora_6": [
+            "ROSSIGNOLI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "ZACCARI",
+            "[PRIMI]"
+        ],
+        "ora_2": [
+            "STRACCAMORE"
+        ],
+        "ora_3": [
+            "ROSSIGNOLI"
+        ],
+        "ora_4": [
+            "COSTANTINI",
+            "SERA"
+        ],
+        "ora_5": [
+            "COSTANTINI",
+            "SERA"
+        ],
+        "ora_6": [
+            "[GEO]"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "LANCIANI"
+        ],
+        "ora_2": [
+            "[PRIMI]"
+        ],
+        "ora_3": [
+            "SERA"
+        ],
+        "ora_4": [
+            "[ITA]"
+        ],
+        "ora_5": [
+            "NOVIELLO"
+        ],
+        "ora_6": [
+            "ZOMPARELLI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "ROSSIGNOLI"
+        ],
+        "ora_2": [
+            "PREZIOSI"
+        ],
+        "ora_3": [
+            "MAURO"
+        ],
+        "ora_4": [
+            "STRACCAMORE"
+        ],
+        "ora_5": [
+            "ZOMPARELLI"
+        ],
+        "ora_6": [
+            "[PRIMI]"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "NOVIELLO"
+        ],
+        "ora_2": [
+            "ROSSIGNOLI"
+        ],
+        "ora_3": [
+            "[ITA]"
+        ],
+        "ora_4": [
+            "[MECC]",
+            "ZOMPARELLI"
+        ],
+        "ora_5": [
+            "SPIRITO",
+            "STRACCAMORE"
+        ],
+        "ora_6": [
+            "PREZIOSI"
+        ]
+    }
+}

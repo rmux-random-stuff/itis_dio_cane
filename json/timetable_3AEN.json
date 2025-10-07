@@ -1,0 +1,110 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "VARONE"
+        ],
+        "ora_2": [
+            "FERAZZOLI"
+        ],
+        "ora_3": [
+            "SACCHETTI"
+        ],
+        "ora_4": [
+            "SACCHETTI"
+        ],
+        "ora_5": [
+            "MAURO"
+        ],
+        "ora_6": [
+            "CAPRIA"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "CONTI",
+            "FERAZZOLI"
+        ],
+        "ora_2": [
+            "CONTI",
+            "FERAZZOLI"
+        ],
+        "ora_3": [
+            "CAPRIA"
+        ],
+        "ora_4": [
+            "SACCHETTI"
+        ],
+        "ora_5": [
+            "SCHIOPPA"
+        ],
+        "ora_6": [
+            "SCHIOPPA"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "[MECC]"
+        ],
+        "ora_2": [
+            "SACCHETTI"
+        ],
+        "ora_3": [
+            "SCHIOPPA"
+        ],
+        "ora_4": [
+            "C.[MECC]"
+        ],
+        "ora_5": [
+            "C.[MECC]"
+        ],
+        "ora_6": [
+            "VARONE"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "SCHIOPPA"
+        ],
+        "ora_2": [
+            "CAPRIA"
+        ],
+        "ora_3": [
+            "NICOLIA",
+            "VARONE"
+        ],
+        "ora_4": [
+            "NICOLIA",
+            "VARONE"
+        ],
+        "ora_5": [
+            "MASSA",
+            "C.[MECC]"
+        ],
+        "ora_6": [
+            "MASSA",
+            "C.[MECC]"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "CHIAPPINI"
+        ],
+        "ora_2": [
+            "CHIAPPINI"
+        ],
+        "ora_3": [
+            "SACCHETTI"
+        ],
+        "ora_4": [
+            "SACCHETTI"
+        ],
+        "ora_5": [
+            "CESARI",
+            "[MECC]"
+        ],
+        "ora_6": [
+            "CESARI",
+            "[MECC]"
+        ]
+    }
+}

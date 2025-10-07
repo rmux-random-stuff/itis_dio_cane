@@ -1,0 +1,128 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "PANICCIA",
+            "LENA"
+        ],
+        "ora_2": [
+            "PANICCIA",
+            "LENA"
+        ],
+        "ora_3": [
+            "VALENTINO",
+            "LENA"
+        ],
+        "ora_4": [
+            "VALENTINO"
+        ],
+        "ora_5": [
+            "BUFFONE"
+        ],
+        "ora_6": [
+            "[REL]"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "PANICCIA"
+        ],
+        "ora_2": [
+            "BUFFONE",
+            "LENA"
+        ],
+        "ora_3": [
+            "BELLIS",
+            "LENA"
+        ],
+        "ora_4": [
+            "BELLIS",
+            "LENA"
+        ],
+        "ora_5": [
+            "D'ONOFRIO",
+            "LENA"
+        ],
+        "ora_6": [
+            "D'ONOFRIO",
+            "LENA"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "D'ONOFRIO",
+            "LENA"
+        ],
+        "ora_2": [
+            "D'ONOFRIO",
+            "LENA"
+        ],
+        "ora_3": [
+            "SCHIAVI",
+            "LENA"
+        ],
+        "ora_4": [
+            "PANICCIA",
+            "LENA"
+        ],
+        "ora_5": [
+            "CESARI",
+            "PANICCIA"
+        ],
+        "ora_6": [
+            "CESARI",
+            "PANICCIA"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "FERAZZOLI",
+            "LENA"
+        ],
+        "ora_2": [
+            "D'ONOFRIO",
+            "LENA"
+        ],
+        "ora_3": [
+            "BUFFONE",
+            "LENA"
+        ],
+        "ora_4": [
+            "CESARI",
+            "PANICCIA",
+            "LENA"
+        ],
+        "ora_5": [
+            "CESARI",
+            "PANICCIA"
+        ],
+        "ora_6": [
+            "PANICCIA"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "SCHIAVI"
+        ],
+        "ora_2": [
+            "NICOLIA",
+            "VALENTINO",
+            "LENA"
+        ],
+        "ora_3": [
+            "NICOLIA",
+            "VALENTINO",
+            "LENA"
+        ],
+        "ora_4": [
+            "D'ONOFRIO"
+        ],
+        "ora_5": [
+            "[MECC]",
+            "FERAZZOLI"
+        ],
+        "ora_6": [
+            "[MECC]",
+            "FERAZZOLI"
+        ]
+    }
+}

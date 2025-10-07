@@ -1,0 +1,125 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "[ITA]",
+            "GALASSO"
+        ],
+        "ora_2": [
+            "COSTANTINI",
+            "COCCO",
+            "GALASSO"
+        ],
+        "ora_3": [
+            "COSTANTINI",
+            "COCCO",
+            "GALASSO"
+        ],
+        "ora_4": [
+            "[CHI]",
+            "GALASSO"
+        ],
+        "ora_5": [
+            "ZOMPARELLI"
+        ],
+        "ora_6": [
+            "BUFFONE"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "BIONDI",
+            "GALASSO"
+        ],
+        "ora_2": [
+            "BIONDI",
+            "GALASSO"
+        ],
+        "ora_3": [
+            "[CHI]",
+            "GALASSO"
+        ],
+        "ora_4": [
+            "NICOLIA",
+            "ZOMPARELLI",
+            "GALASSO"
+        ],
+        "ora_5": [
+            "[GEO]"
+        ],
+        "ora_6": [
+            "STRACCAMORE"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "STRACCAMORE",
+            "GALASSO"
+        ],
+        "ora_2": [
+            "PREZIOSI",
+            "GALASSO"
+        ],
+        "ora_3": [
+            "BUFFONE",
+            "GALASSO"
+        ],
+        "ora_4": [
+            "NOVIELLO",
+            "GALASSO"
+        ],
+        "ora_5": [
+            "[ITA]"
+        ],
+        "ora_6": [
+            "[ITA]"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "MAURO",
+            "GALASSO"
+        ],
+        "ora_2": [
+            "LANCIANI",
+            "GALASSO"
+        ],
+        "ora_3": [
+            "COCCO",
+            "GALASSO"
+        ],
+        "ora_4": [
+            "ZOMPARELLI",
+            "GALASSO"
+        ],
+        "ora_5": [
+            "BUFFONE"
+        ],
+        "ora_6": [
+            "BUFFONE"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "ZACCARI",
+            "[CHI]",
+            "GALASSO"
+        ],
+        "ora_2": [
+            "PREZIOSI",
+            "GALASSO"
+        ],
+        "ora_3": [
+            "LANCIANI"
+        ],
+        "ora_4": [
+            "SPIRITO",
+            "STRACCAMORE"
+        ],
+        "ora_5": [
+            "[ITA]"
+        ],
+        "ora_6": [
+            "[ITA]"
+        ]
+    }
+}

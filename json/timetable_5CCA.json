@@ -1,0 +1,120 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "RAMUNDO",
+            "BEVILACQUA"
+        ],
+        "ora_2": [
+            "BELLI"
+        ],
+        "ora_3": [
+            "BELLI"
+        ],
+        "ora_4": [
+            "SCACCIA",
+            "CICCARELLI",
+            "BEVILACQUA"
+        ],
+        "ora_5": [
+            "SCACCIA",
+            "CICCARELLI"
+        ],
+        "ora_6": [
+            "ZACCARDI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "CELLITTI",
+            "AERONAUTICA"
+        ],
+        "ora_2": [
+            "CELLITTI",
+            "AERONAUTICA",
+            "BEVILACQUA"
+        ],
+        "ora_3": [
+            "CICCARELLI",
+            "BEVILACQUA"
+        ],
+        "ora_4": [
+            "SCACCIA",
+            "CICCARELLI"
+        ],
+        "ora_5": [
+            "SCACCIA",
+            "CICCARELLI"
+        ],
+        "ora_6": [
+            "MASSETI",
+            "BEVILACQUA"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "BELLI"
+        ],
+        "ora_2": [
+            "ZAMPINI"
+        ],
+        "ora_3": [
+            "ZACCARDI"
+        ],
+        "ora_4": [
+            "MASSETI",
+            "BEVILACQUA"
+        ],
+        "ora_5": [
+            "CICCARELLI",
+            "BEVILACQUA"
+        ],
+        "ora_6": [
+            "[REL]"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "BELLI"
+        ],
+        "ora_2": [
+            "SCACCIA",
+            "CICCARELLI"
+        ],
+        "ora_3": [
+            "SCACCIA",
+            "CICCARELLI"
+        ],
+        "ora_4": [
+            "AERONAUTICA",
+            "BEVILACQUA"
+        ],
+        "ora_5": [
+            "GUGLIETTI",
+            "RAMUNDO"
+        ],
+        "ora_6": [
+            "BIONDI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "ZAMPINI"
+        ],
+        "ora_2": [
+            "ZACCARDI"
+        ],
+        "ora_3": [
+            "AERONAUTICA",
+            "BEVILACQUA"
+        ],
+        "ora_4": [
+            "MASSETI"
+        ],
+        "ora_5": [
+            "BELLI"
+        ],
+        "ora_6": [
+            "BELLI"
+        ]
+    }
+}

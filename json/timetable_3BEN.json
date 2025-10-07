@@ -1,0 +1,119 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "VALENTINO"
+        ],
+        "ora_2": [
+            "URRATA"
+        ],
+        "ora_3": [
+            "NICOLIA",
+            "PANICCIA",
+            "MINOTTI"
+        ],
+        "ora_4": [
+            "NICOLIA",
+            "PANICCIA",
+            "MINOTTI"
+        ],
+        "ora_5": [
+            "CONTI",
+            "VALENTINO"
+        ],
+        "ora_6": [
+            "CONTI",
+            "VALENTINO"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "C.[MECC]"
+        ],
+        "ora_2": [
+            "C.[MECC]",
+            "MINOTTI"
+        ],
+        "ora_3": [
+            "POLLETTA",
+            "MINOTTI"
+        ],
+        "ora_4": [
+            "VALENTINO",
+            "MINOTTI"
+        ],
+        "ora_5": [
+            "SERAFINI",
+            "MINOTTI"
+        ],
+        "ora_6": [
+            "URRATA",
+            "MINOTTI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "MASSA",
+            "C.[MECC]"
+        ],
+        "ora_2": [
+            "MASSA",
+            "C.[MECC]"
+        ],
+        "ora_3": [
+            "POLLETTA",
+            "MINOTTI"
+        ],
+        "ora_4": [
+            "POLLETTA"
+        ],
+        "ora_5": [
+            "NICOLIA",
+            "VALENTINO"
+        ],
+        "ora_6": [
+            "NICOLIA",
+            "VALENTINO"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "SERAFINI"
+        ],
+        "ora_2": [
+            "VALENTINO"
+        ],
+        "ora_3": [
+            "URRATA"
+        ],
+        "ora_4": [
+            "URRATA",
+            "MINOTTI"
+        ],
+        "ora_5": [
+            "[REL]"
+        ],
+        "ora_6": [
+            "POLLETTA"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "POLLETTA"
+        ],
+        "ora_2": [
+            "POLLETTA"
+        ],
+        "ora_3": [
+            "BRAGALONE"
+        ],
+        "ora_4": [
+            "BRAGALONE"
+        ],
+        "ora_5": [
+            "PANICCIA"
+        ],
+        "ora_6": [
+            "PANICCIA"
+        ]
+    }
+}

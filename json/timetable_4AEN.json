@@ -1,0 +1,111 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "SACCHETTI"
+        ],
+        "ora_2": [
+            "SACCHETTI"
+        ],
+        "ora_3": [
+            "VARONE"
+        ],
+        "ora_4": [
+            "MAURO"
+        ],
+        "ora_5": [
+            "MARCOCCIA"
+        ],
+        "ora_6": [
+            "SCHIAVI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "SACCHETTI"
+        ],
+        "ora_2": [
+            "MARCOCCIA"
+        ],
+        "ora_3": [
+            "SCHIAVI"
+        ],
+        "ora_4": [
+            "ATTI"
+        ],
+        "ora_5": [
+            "MASSA",
+            "CIPRIANI"
+        ],
+        "ora_6": [
+            "MASSA",
+            "CIPRIANI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "SACCHETTI"
+        ],
+        "ora_2": [
+            "BRAGALONE"
+        ],
+        "ora_3": [
+            "BRAGALONE"
+        ],
+        "ora_4": [
+            "MASSA",
+            "ATTI"
+        ],
+        "ora_5": [
+            "MASSA",
+            "ATTI"
+        ],
+        "ora_6": [
+            "MASSA",
+            "CIPRIANI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "NICOLIA",
+            "VARONE"
+        ],
+        "ora_2": [
+            "NICOLIA",
+            "VARONE"
+        ],
+        "ora_3": [
+            "ATTI"
+        ],
+        "ora_4": [
+            "SCHIAVI"
+        ],
+        "ora_5": [
+            "MARCOCCIA"
+        ],
+        "ora_6": [
+            "SACCHETTI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "SACCHETTI"
+        ],
+        "ora_2": [
+            "ATTI"
+        ],
+        "ora_3": [
+            "CIPRIANI"
+        ],
+        "ora_4": [
+            "MARCOCCIA"
+        ],
+        "ora_5": [
+            "NICOLIA",
+            "CIPRIANI"
+        ],
+        "ora_6": [
+            "NICOLIA",
+            "CIPRIANI"
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "FIORILLO"
+        ],
+        "ora_2": [
+            "RENZITTI"
+        ],
+        "ora_3": [
+            "BUFFONE"
+        ],
+        "ora_4": [
+            "ZACCARI",
+            "[PRIMI]",
+            "STEFANO"
+        ],
+        "ora_5": [
+            "[DIR]",
+            "STEFANO"
+        ],
+        "ora_6": [
+            "SERAFINI",
+            "STEFANO"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "BUFFONE",
+            "STEFANO"
+        ],
+        "ora_2": [
+            "[PRIMI]",
+            "STEFANO"
+        ],
+        "ora_3": [
+            "RENZITTI",
+            "STEFANO"
+        ],
+        "ora_4": [
+            "RENZITTI",
+            "STEFANO"
+        ],
+        "ora_5": [
+            "[REL]"
+        ],
+        "ora_6": [
+            "GIOVANNONE"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "[PRIMI]"
+        ],
+        "ora_2": [
+            "CESARI",
+            "GIOVANNONE",
+            "STEFANO"
+        ],
+        "ora_3": [
+            "SIENA",
+            "STEFANO"
+        ],
+        "ora_4": [
+            "SIENA",
+            "STEFANO"
+        ],
+        "ora_5": [
+            "FIORILLO",
+            "STEFANO"
+        ],
+        "ora_6": [
+            "SERAFINI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "[DIR]",
+            "STEFANO"
+        ],
+        "ora_2": [
+            "RENZITTI",
+            "STEFANO"
+        ],
+        "ora_3": [
+            "MAGLIOCCHETTI",
+            "STEFANO"
+        ],
+        "ora_4": [
+            "SPIRITO",
+            "FIORILLO",
+            "STEFANO"
+        ],
+        "ora_5": [
+            "SERAFINI"
+        ],
+        "ora_6": [
+            "GIOVANNONE"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "BUFFONE"
+        ],
+        "ora_2": [
+            "BUFFONE",
+            "STEFANO"
+        ],
+        "ora_3": [
+            "RENZITTI",
+            "STEFANO"
+        ],
+        "ora_4": [
+            "RENZITTI",
+            "STEFANO"
+        ],
+        "ora_5": [
+            "BIONDI"
+        ],
+        "ora_6": [
+            "BIONDI"
+        ]
+    }
+}

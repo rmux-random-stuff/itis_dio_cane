@@ -1,0 +1,130 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "COCCO",
+            "MACERA"
+        ],
+        "ora_2": [
+            "CECI",
+            "SERA",
+            "MACERA"
+        ],
+        "ora_3": [
+            "[EL]",
+            "DEBELAK",
+            "MACERA"
+        ],
+        "ora_4": [
+            "[EL]",
+            "DEBELAK"
+        ],
+        "ora_5": [
+            "SCALIA"
+        ],
+        "ora_6": [
+            "SCALIA"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "SERA",
+            "MACERA"
+        ],
+        "ora_2": [
+            "ZACCARDI",
+            "MACERA"
+        ],
+        "ora_3": [
+            "[MAT]",
+            "MACERA"
+        ],
+        "ora_4": [
+            "[MAT]"
+        ],
+        "ora_5": [
+            "DEBELAK"
+        ],
+        "ora_6": [
+            "DEBELAK"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "CHIAPPINI"
+        ],
+        "ora_2": [
+            "CHIAPPINI"
+        ],
+        "ora_3": [
+            "GUGLIETTI",
+            "COCCO",
+            "MACERA"
+        ],
+        "ora_4": [
+            "GUGLIETTI",
+            "COCCO",
+            "MACERA"
+        ],
+        "ora_5": [
+            "SCALIA",
+            "MACERA"
+        ],
+        "ora_6": [
+            "SCALIA",
+            "MACERA"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "CECI",
+            "SERA"
+        ],
+        "ora_2": [
+            "CECI",
+            "SERA",
+            "MACERA"
+        ],
+        "ora_3": [
+            "ZACCARDI",
+            "MACERA"
+        ],
+        "ora_4": [
+            "MAURO"
+        ],
+        "ora_5": [
+            "[EL]",
+            "DEBELAK",
+            "MACERA"
+        ],
+        "ora_6": [
+            "[EL]",
+            "DEBELAK",
+            "MACERA"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "SCALIA"
+        ],
+        "ora_2": [
+            "SCALIA",
+            "MACERA"
+        ],
+        "ora_3": [
+            "GUGLIETTI",
+            "COCCO",
+            "MACERA"
+        ],
+        "ora_4": [
+            "COCCO",
+            "MACERA"
+        ],
+        "ora_5": [
+            "SERA",
+            "MACERA"
+        ],
+        "ora_6": [
+            "SERA"
+        ]
+    }
+}

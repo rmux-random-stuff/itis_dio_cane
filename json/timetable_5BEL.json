@@ -1,0 +1,121 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "CECI",
+            "SERA"
+        ],
+        "ora_2": [
+            "BELLI"
+        ],
+        "ora_3": [
+            "BELLI"
+        ],
+        "ora_4": [
+            "GIAMMARCO"
+        ],
+        "ora_5": [
+            "GIAMMARCO",
+            "MINOTTI"
+        ],
+        "ora_6": [
+            "ZACCARDI",
+            "MINOTTI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "RAMUNDO"
+        ],
+        "ora_2": [
+            "CECI",
+            "SERA"
+        ],
+        "ora_3": [
+            "CECI",
+            "SERA"
+        ],
+        "ora_4": [
+            "ROSSIGNOLI"
+        ],
+        "ora_5": [
+            "GUGLIETTI",
+            "GIAMMARCO"
+        ],
+        "ora_6": [
+            "GUGLIETTI",
+            "GIAMMARCO"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "BELLI",
+            "MINOTTI"
+        ],
+        "ora_2": [
+            "SERA",
+            "MINOTTI"
+        ],
+        "ora_3": [
+            "ZACCARDI"
+        ],
+        "ora_4": [
+            "[EL]",
+            "RAMUNDO"
+        ],
+        "ora_5": [
+            "[EL]",
+            "RAMUNDO"
+        ],
+        "ora_6": [
+            "[REL]"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "BELLI"
+        ],
+        "ora_2": [
+            "[EL]",
+            "RAMUNDO"
+        ],
+        "ora_3": [
+            "[EL]",
+            "RAMUNDO"
+        ],
+        "ora_4": [
+            "SERA"
+        ],
+        "ora_5": [
+            "SERA",
+            "MINOTTI"
+        ],
+        "ora_6": [
+            "BIONDI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "RAMUNDO"
+        ],
+        "ora_2": [
+            "ZACCARDI"
+        ],
+        "ora_3": [
+            "ROSSIGNOLI",
+            "MINOTTI"
+        ],
+        "ora_4": [
+            "GUGLIETTI",
+            "GIAMMARCO",
+            "MINOTTI"
+        ],
+        "ora_5": [
+            "BELLI",
+            "MINOTTI"
+        ],
+        "ora_6": [
+            "BELLI",
+            "MINOTTI"
+        ]
+    }
+}

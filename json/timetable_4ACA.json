@@ -1,0 +1,126 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "FOLCA"
+        ],
+        "ora_2": [
+            "POLLETTA",
+            "EVANGELISTA"
+        ],
+        "ora_3": [
+            "POLLETTA",
+            "EVANGELISTA"
+        ],
+        "ora_4": [
+            "[MECC]",
+            "AERONAUTICA",
+            "EVANGELISTA"
+        ],
+        "ora_5": [
+            "[MECC]",
+            "AERONAUTICA"
+        ],
+        "ora_6": [
+            "VISCA",
+            "TANZI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "POLLETTA",
+            "EVANGELISTA"
+        ],
+        "ora_2": [
+            "FOLCA",
+            "TANZI"
+        ],
+        "ora_3": [
+            "CELLITTI",
+            "VENTURI",
+            "EVANGELISTA"
+        ],
+        "ora_4": [
+            "AERONAUTICA",
+            "TANZI"
+        ],
+        "ora_5": [
+            "CORONELLA"
+        ],
+        "ora_6": [
+            "ROSSIGNOLI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "POLLETTA",
+            "EVANGELISTA"
+        ],
+        "ora_2": [
+            "POLLETTA",
+            "TANZI"
+        ],
+        "ora_3": [
+            "VENTURI",
+            "EVANGELISTA"
+        ],
+        "ora_4": [
+            "TROPEANO",
+            "TANZI"
+        ],
+        "ora_5": [
+            "BRAGALONE"
+        ],
+        "ora_6": [
+            "BRAGALONE"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "FOLCA"
+        ],
+        "ora_2": [
+            "ROSSIGNOLI",
+            "TANZI"
+        ],
+        "ora_3": [
+            "CORONELLA",
+            "EVANGELISTA"
+        ],
+        "ora_4": [
+            "VENTURI",
+            "TANZI"
+        ],
+        "ora_5": [
+            "MAURO"
+        ],
+        "ora_6": [
+            "CECI",
+            "TROPEANO"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "ROSSIGNOLI"
+        ],
+        "ora_2": [
+            "CELLITTI",
+            "VENTURI",
+            "EVANGELISTA"
+        ],
+        "ora_3": [
+            "CELLITTI",
+            "VENTURI",
+            "TANZI"
+        ],
+        "ora_4": [
+            "VISCA"
+        ],
+        "ora_5": [
+            "VISCA"
+        ],
+        "ora_6": [
+            "POLLETTA",
+            "TANZI"
+        ]
+    }
+}

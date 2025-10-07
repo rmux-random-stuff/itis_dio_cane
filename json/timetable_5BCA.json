@@ -1,0 +1,119 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "REALI"
+        ],
+        "ora_2": [
+            "REALI"
+        ],
+        "ora_3": [
+            "MARCOCCIA",
+            "M.A."
+        ],
+        "ora_4": [
+            "ZAMPINI"
+        ],
+        "ora_5": [
+            "NOVIELLO"
+        ],
+        "ora_6": [
+            "CICCARELLI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "SCACCIA",
+            "ARPANTE"
+        ],
+        "ora_2": [
+            "SCACCIA",
+            "ARPANTE",
+            "M.A."
+        ],
+        "ora_3": [
+            "REALI",
+            "M.A."
+        ],
+        "ora_4": [
+            "REALI"
+        ],
+        "ora_5": [
+            "CHIAPPINI"
+        ],
+        "ora_6": [
+            "CHIAPPINI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "NOVIELLO"
+        ],
+        "ora_2": [
+            "SCACCIA",
+            "ARPANTE",
+            "M.A."
+        ],
+        "ora_3": [
+            "SCACCIA",
+            "ARPANTE",
+            "M.A."
+        ],
+        "ora_4": [
+            "ZAMPINI"
+        ],
+        "ora_5": [
+            "TROPEANO",
+            "M.A."
+        ],
+        "ora_6": [
+            "MARCOCCIA"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "CICCARELLI"
+        ],
+        "ora_2": [
+            "ARPANTE"
+        ],
+        "ora_3": [
+            "CECI",
+            "TROPEANO"
+        ],
+        "ora_4": [
+            "CECI",
+            "TROPEANO",
+            "M.A."
+        ],
+        "ora_5": [
+            "REALI",
+            "M.A."
+        ],
+        "ora_6": [
+            "NOVIELLO"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "CICCARELLI",
+            "M.A."
+        ],
+        "ora_2": [
+            "CICCARELLI"
+        ],
+        "ora_3": [
+            "REALI"
+        ],
+        "ora_4": [
+            "SCACCIA",
+            "ARPANTE"
+        ],
+        "ora_5": [
+            "SCACCIA",
+            "ARPANTE"
+        ],
+        "ora_6": [
+            "ARPANTE"
+        ]
+    }
+}

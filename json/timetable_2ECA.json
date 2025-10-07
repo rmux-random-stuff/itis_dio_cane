@@ -1,0 +1,104 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "STRACCAMORE"
+        ],
+        "ora_2": [
+            "LANCIANI"
+        ],
+        "ora_3": [
+            "CATALDI"
+        ],
+        "ora_4": [
+            "BELLI"
+        ],
+        "ora_5": [
+            "SCHIAVI"
+        ],
+        "ora_6": [
+            "[AER]"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "[AER]"
+        ],
+        "ora_2": [
+            "SCHIAVI"
+        ],
+        "ora_3": [
+            "BELLI"
+        ],
+        "ora_4": [
+            "[CHI]"
+        ],
+        "ora_5": [
+            "CATALDI"
+        ],
+        "ora_6": [
+            "PREZIOSI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "CATALDI"
+        ],
+        "ora_2": [
+            "BELLI"
+        ],
+        "ora_3": [
+            "MAURO"
+        ],
+        "ora_4": [
+            "BIONDI"
+        ],
+        "ora_5": [
+            "BIONDI"
+        ],
+        "ora_6": [
+            "[AER]"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "[DIS]"
+        ],
+        "ora_2": [
+            "BELLI"
+        ],
+        "ora_3": [
+            "BELLI"
+        ],
+        "ora_4": [
+            "LANCIANI"
+        ],
+        "ora_5": [
+            "STRACCAMORE"
+        ],
+        "ora_6": [
+            "SCHIAVI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "BELLI"
+        ],
+        "ora_2": [
+            "[DIS]"
+        ],
+        "ora_3": [
+            "PREZIOSI"
+        ],
+        "ora_4": [
+            "CATALDI"
+        ],
+        "ora_5": [
+            "ZACCARI",
+            "[CHI]"
+        ],
+        "ora_6": [
+            "SPIRITO",
+            "STRACCAMORE"
+        ]
+    }
+}

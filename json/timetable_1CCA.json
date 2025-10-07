@@ -1,0 +1,106 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "[MAT]"
+        ],
+        "ora_2": [
+            "FOLCA"
+        ],
+        "ora_3": [
+            "BELLIS"
+        ],
+        "ora_4": [
+            "BELLIS"
+        ],
+        "ora_5": [
+            "GIOVANNONE"
+        ],
+        "ora_6": [
+            "[PRIMI]"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "ZAMPINI"
+        ],
+        "ora_2": [
+            "SCALIA"
+        ],
+        "ora_3": [
+            "SCALIA"
+        ],
+        "ora_4": [
+            "[MAT]"
+        ],
+        "ora_5": [
+            "NICOLIA",
+            "GIOVANNONE"
+        ],
+        "ora_6": [
+            "MAGLIOCCHETTI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "SCALIA"
+        ],
+        "ora_2": [
+            "SCALIA"
+        ],
+        "ora_3": [
+            "[FISICA]"
+        ],
+        "ora_4": [
+            "[MAT]"
+        ],
+        "ora_5": [
+            "SERA"
+        ],
+        "ora_6": [
+            "COSTANTINI",
+            "SERA"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "ZAMPINI"
+        ],
+        "ora_2": [
+            "ZACCARI",
+            "[PRIMI]"
+        ],
+        "ora_3": [
+            "SCALIA"
+        ],
+        "ora_4": [
+            "[FISICA]"
+        ],
+        "ora_5": [
+            "FOLCA"
+        ],
+        "ora_6": [
+            "[REL]"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "[MAT]"
+        ],
+        "ora_2": [
+            "SPIRITO",
+            "[FISICA]"
+        ],
+        "ora_3": [
+            "GIOVANNONE"
+        ],
+        "ora_4": [
+            "FOLCA"
+        ],
+        "ora_5": [
+            "[PRIMI]"
+        ],
+        "ora_6": [
+            "MAGLIOCCHETTI"
+        ]
+    }
+}

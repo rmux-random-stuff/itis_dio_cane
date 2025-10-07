@@ -1,0 +1,128 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "URRATA"
+        ],
+        "ora_2": [
+            "RAMUNDO",
+            "SABENE"
+        ],
+        "ora_3": [
+            "D'ONORIO",
+            "RAMUNDO",
+            "SABENE"
+        ],
+        "ora_4": [
+            "ZACCARDI",
+            "SABENE"
+        ],
+        "ora_5": [
+            "MAIURI",
+            "SABENE"
+        ],
+        "ora_6": [
+            "MAIURI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "D'ONORIO",
+            "COCCO",
+            "SABENE"
+        ],
+        "ora_2": [
+            "D'ONORIO",
+            "COCCO",
+            "SABENE"
+        ],
+        "ora_3": [
+            "ZACCARDI",
+            "SABENE"
+        ],
+        "ora_4": [
+            "URRATA",
+            "SABENE"
+        ],
+        "ora_5": [
+            "MAIURI",
+            "SABENE"
+        ],
+        "ora_6": [
+            "MAIURI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "GUGLIETTI",
+            "DEBELAK",
+            "SABENE"
+        ],
+        "ora_2": [
+            "GUGLIETTI",
+            "DEBELAK",
+            "SABENE"
+        ],
+        "ora_3": [
+            "CHIAPPINI"
+        ],
+        "ora_4": [
+            "CHIAPPINI"
+        ],
+        "ora_5": [
+            "MAIURI"
+        ],
+        "ora_6": [
+            "D'ONORIO",
+            "RAMUNDO"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "URRATA"
+        ],
+        "ora_2": [
+            "ZACCARDI"
+        ],
+        "ora_3": [
+            "DEBELAK",
+            "SABENE"
+        ],
+        "ora_4": [
+            "GUGLIETTI",
+            "DEBELAK",
+            "SABENE"
+        ],
+        "ora_5": [
+            "COCCO",
+            "SABENE"
+        ],
+        "ora_6": [
+            "COCCO",
+            "SABENE"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "[REL]"
+        ],
+        "ora_2": [
+            "RAMUNDO"
+        ],
+        "ora_3": [
+            "RAMUNDO",
+            "SABENE"
+        ],
+        "ora_4": [
+            "MAIURI",
+            "SABENE"
+        ],
+        "ora_5": [
+            "D'ONORIO",
+            "COCCO",
+            "SABENE"
+        ],
+        "ora_6": [
+            "DEBELAK"
+        ]
+    }
+}

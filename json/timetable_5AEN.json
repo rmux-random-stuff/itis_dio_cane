@@ -1,0 +1,112 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "FERAZZOLI"
+        ],
+        "ora_2": [
+            "VARONE"
+        ],
+        "ora_3": [
+            "ATTI"
+        ],
+        "ora_4": [
+            "ATTI"
+        ],
+        "ora_5": [
+            "SERAFINI"
+        ],
+        "ora_6": [
+            "MARCOCCIA"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "MAURO"
+        ],
+        "ora_2": [
+            "SACCHETTI"
+        ],
+        "ora_3": [
+            "MARCOCCIA"
+        ],
+        "ora_4": [
+            "SERAFINI"
+        ],
+        "ora_5": [
+            "[MECC]",
+            "VARONE"
+        ],
+        "ora_6": [
+            "[MECC]",
+            "VARONE"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "[MECC]",
+            "ATTI"
+        ],
+        "ora_2": [
+            "[MECC]",
+            "ATTI"
+        ],
+        "ora_3": [
+            "SACCHETTI"
+        ],
+        "ora_4": [
+            "SACCHETTI"
+        ],
+        "ora_5": [
+            "VARONE"
+        ],
+        "ora_6": [
+            "CHIAPPINI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "[MECC]",
+            "ATTI"
+        ],
+        "ora_2": [
+            "[MECC]",
+            "ATTI"
+        ],
+        "ora_3": [
+            "FERAZZOLI"
+        ],
+        "ora_4": [
+            "FERAZZOLI"
+        ],
+        "ora_5": [
+            "SACCHETTI"
+        ],
+        "ora_6": [
+            "MARCOCCIA"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "MASSA",
+            "VARONE"
+        ],
+        "ora_2": [
+            "MASSA",
+            "VARONE"
+        ],
+        "ora_3": [
+            "CESARI",
+            "FERAZZOLI"
+        ],
+        "ora_4": [
+            "CESARI",
+            "FERAZZOLI"
+        ],
+        "ora_5": [
+            "SACCHETTI"
+        ],
+        "ora_6": [
+            "SERAFINI"
+        ]
+    }
+}

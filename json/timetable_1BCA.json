@@ -1,0 +1,107 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "PREZIOSI"
+        ],
+        "ora_2": [
+            "SPIRITO",
+            "[FISICA]"
+        ],
+        "ora_3": [
+            "MAIURI"
+        ],
+        "ora_4": [
+            "MAIURI"
+        ],
+        "ora_5": [
+            "[REL]"
+        ],
+        "ora_6": [
+            "ZACCARI",
+            "FRIONI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "BELLIS"
+        ],
+        "ora_2": [
+            "BELLIS"
+        ],
+        "ora_3": [
+            "ZOMPARELLI"
+        ],
+        "ora_4": [
+            "CAPRIA"
+        ],
+        "ora_5": [
+            "[FISICA]"
+        ],
+        "ora_6": [
+            "FRIONI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "[DIR]"
+        ],
+        "ora_2": [
+            "MAIURI"
+        ],
+        "ora_3": [
+            "ZOMPARELLI"
+        ],
+        "ora_4": [
+            "COSTANTINI",
+            "D'AMBROSIO"
+        ],
+        "ora_5": [
+            "COSTANTINI",
+            "D'AMBROSIO"
+        ],
+        "ora_6": [
+            "[MAT]"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "CAPRIA"
+        ],
+        "ora_2": [
+            "[DIR]"
+        ],
+        "ora_3": [
+            "[FISICA]"
+        ],
+        "ora_4": [
+            "MAIURI"
+        ],
+        "ora_5": [
+            "[MAT]"
+        ],
+        "ora_6": [
+            "[MAT]"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "PREZIOSI"
+        ],
+        "ora_2": [
+            "FRIONI"
+        ],
+        "ora_3": [
+            "[MECC]",
+            "ZOMPARELLI"
+        ],
+        "ora_4": [
+            "D'AMBROSIO"
+        ],
+        "ora_5": [
+            "CAPRIA"
+        ],
+        "ora_6": [
+            "MAIURI"
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "PARIS",
+            "RAPONI"
+        ],
+        "ora_2": [
+            "CATALDI",
+            "VISCA"
+        ],
+        "ora_3": [
+            "SPIRITO",
+            "FIORILLO",
+            "VISCA"
+        ],
+        "ora_4": [
+            "SERAFINI",
+            "VISCA"
+        ],
+        "ora_5": [
+            "COSTANTINI",
+            "TROPEANO",
+            "VISCA"
+        ],
+        "ora_6": [
+            "COSTANTINI",
+            "TROPEANO",
+            "VISCA"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "[REL]",
+            "VISCA"
+        ],
+        "ora_2": [
+            "LANCIANI",
+            "VISCA"
+        ],
+        "ora_3": [
+            "CATALDI",
+            "VISCA"
+        ],
+        "ora_4": [
+            "GIOVANNONE"
+        ],
+        "ora_5": [
+            "PREZIOSI",
+            "RAPONI"
+        ],
+        "ora_6": [
+            "[PRIMI]",
+            "RAPONI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "CESARI",
+            "GIOVANNONE",
+            "VISCA"
+        ],
+        "ora_2": [
+            "TROPEANO",
+            "VISCA"
+        ],
+        "ora_3": [
+            "PREZIOSI",
+            "VISCA"
+        ],
+        "ora_4": [
+            "FIORILLO",
+            "VISCA"
+        ],
+        "ora_5": [
+            "SERAFINI",
+            "RAPONI"
+        ],
+        "ora_6": [
+            "PARIS",
+            "RAPONI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "PARIS",
+            "RAPONI"
+        ],
+        "ora_2": [
+            "PARIS",
+            "RAPONI"
+        ],
+        "ora_3": [
+            "FIORILLO",
+            "VISCA"
+        ],
+        "ora_4": [
+            "GIOVANNONE",
+            "VISCA"
+        ],
+        "ora_5": [
+            "[PRIMI]",
+            "VISCA"
+        ],
+        "ora_6": [
+            "CATALDI",
+            "VISCA"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "CATALDI",
+            "VISCA"
+        ],
+        "ora_2": [
+            "BIONDI",
+            "VISCA"
+        ],
+        "ora_3": [
+            "BIONDI"
+        ],
+        "ora_4": [
+            "LANCIANI",
+            "RAPONI"
+        ],
+        "ora_5": [
+            "PARIS",
+            "RAPONI"
+        ],
+        "ora_6": [
+            "PARIS"
+        ]
+    }
+}

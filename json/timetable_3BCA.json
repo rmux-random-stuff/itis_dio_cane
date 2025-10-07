@@ -1,0 +1,108 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "SCACCIA",
+            "ARPANTE"
+        ],
+        "ora_2": [
+            "SCACCIA",
+            "ARPANTE"
+        ],
+        "ora_3": [
+            "REALI"
+        ],
+        "ora_4": [
+            "MARCOCCIA"
+        ],
+        "ora_5": [
+            "[AER]"
+        ],
+        "ora_6": [
+            "NOVIELLO"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "MARCOCCIA"
+        ],
+        "ora_2": [
+            "ZAMPINI"
+        ],
+        "ora_3": [
+            "NOVIELLO"
+        ],
+        "ora_4": [
+            "[AER]"
+        ],
+        "ora_5": [
+            "[AER]"
+        ],
+        "ora_6": [
+            "REALI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "ZAMPINI"
+        ],
+        "ora_2": [
+            "REALI"
+        ],
+        "ora_3": [
+            "MARCOCCIA"
+        ],
+        "ora_4": [
+            "CECI",
+            "NEGLIA"
+        ],
+        "ora_5": [
+            "CECI",
+            "NEGLIA"
+        ],
+        "ora_6": [
+            "BIONDI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "VISCA"
+        ],
+        "ora_2": [
+            "NOVIELLO"
+        ],
+        "ora_3": [
+            "MARCOCCIA"
+        ],
+        "ora_4": [
+            "ARPANTE"
+        ],
+        "ora_5": [
+            "ARPANTE"
+        ],
+        "ora_6": [
+            "REALI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "MAURO"
+        ],
+        "ora_2": [
+            "SCACCIA",
+            "VISCA"
+        ],
+        "ora_3": [
+            "SCACCIA",
+            "VISCA"
+        ],
+        "ora_4": [
+            "REALI"
+        ],
+        "ora_5": [
+            "REALI"
+        ],
+        "ora_6": [
+            "NEGLIA"
+        ]
+    }
+}

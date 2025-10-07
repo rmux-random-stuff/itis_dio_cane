@@ -1,0 +1,112 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "CATALDI",
+            "M.A."
+        ],
+        "ora_2": [
+            "FIORILLO",
+            "M.A."
+        ],
+        "ora_3": [
+            "PREZIOSI"
+        ],
+        "ora_4": [
+            "REALI",
+            "M.A."
+        ],
+        "ora_5": [
+            "ZACCARI",
+            "[PRIMI]"
+        ],
+        "ora_6": [
+            "[DIR]"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "REALI"
+        ],
+        "ora_2": [
+            "REALI"
+        ],
+        "ora_3": [
+            "VALENTINO"
+        ],
+        "ora_4": [
+            "SCHIAVI",
+            "M.A."
+        ],
+        "ora_5": [
+            "[PRIMI]",
+            "M.A."
+        ],
+        "ora_6": [
+            "CATALDI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "REALI",
+            "M.A."
+        ],
+        "ora_2": [
+            "MAURO"
+        ],
+        "ora_3": [
+            "CATALDI"
+        ],
+        "ora_4": [
+            "GIOVANNONE",
+            "M.A."
+        ],
+        "ora_5": [
+            "PREZIOSI"
+        ],
+        "ora_6": [
+            "SCHIAVI"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "VALENTINO"
+        ],
+        "ora_2": [
+            "REALI"
+        ],
+        "ora_3": [
+            "REALI",
+            "M.A."
+        ],
+        "ora_4": [
+            "BIONDI"
+        ],
+        "ora_5": [
+            "BIONDI"
+        ],
+        "ora_6": [
+            "FIORILLO"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "VALENTINO"
+        ],
+        "ora_2": [
+            "SCHIAVI",
+            "M.A."
+        ],
+        "ora_3": [
+            "CATALDI"
+        ],
+        "ora_4": [
+            "GIOVANNONE"
+        ],
+        "ora_5": [
+            "[DIR]"
+        ],
+        "ora_6": [
+            "[PRIMI]"
+        ]
+    }
+}

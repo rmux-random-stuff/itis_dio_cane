@@ -1,0 +1,112 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "[MECC]",
+            "ATTI"
+        ],
+        "ora_2": [
+            "[MECC]",
+            "ATTI"
+        ],
+        "ora_3": [
+            "MASSA",
+            "STACCONE"
+        ],
+        "ora_4": [
+            "MASSA",
+            "STACCONE"
+        ],
+        "ora_5": [
+            "STACCONE"
+        ],
+        "ora_6": [
+            "BELLI"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "STACCONE"
+        ],
+        "ora_2": [
+            "PANICCIA"
+        ],
+        "ora_3": [
+            "[MAT]"
+        ],
+        "ora_4": [
+            "BELLI"
+        ],
+        "ora_5": [
+            "STACCONE"
+        ],
+        "ora_6": [
+            "STACCONE"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "PANICCIA"
+        ],
+        "ora_2": [
+            "PANICCIA"
+        ],
+        "ora_3": [
+            "BELLI"
+        ],
+        "ora_4": [
+            "BELLI"
+        ],
+        "ora_5": [
+            "SCHIAVI"
+        ],
+        "ora_6": [
+            "[MAT]"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "CESARI",
+            "PANICCIA"
+        ],
+        "ora_2": [
+            "CESARI",
+            "PANICCIA"
+        ],
+        "ora_3": [
+            "SCHIAVI"
+        ],
+        "ora_4": [
+            "CONTI",
+            "STACCONE"
+        ],
+        "ora_5": [
+            "CONTI",
+            "STACCONE"
+        ],
+        "ora_6": [
+            "[MAT]"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "CONTI",
+            "STACCONE"
+        ],
+        "ora_2": [
+            "CONTI",
+            "STACCONE"
+        ],
+        "ora_3": [
+            "BELLI"
+        ],
+        "ora_4": [
+            "BELLI"
+        ],
+        "ora_5": [
+            "BRAGALONE"
+        ],
+        "ora_6": [
+            "BRAGALONE"
+        ]
+    }
+}

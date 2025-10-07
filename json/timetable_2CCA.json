@@ -1,0 +1,122 @@
+{
+    "Lunedì": {
+        "ora_1": [
+            "D'ONOFRIO",
+            "SAMANI"
+        ],
+        "ora_2": [
+            "D'ONOFRIO",
+            "SAMANI"
+        ],
+        "ora_3": [
+            "CICCARELLI",
+            "SAMANI"
+        ],
+        "ora_4": [
+            "SCHIOPPA",
+            "SAMANI"
+        ],
+        "ora_5": [
+            "SCHIOPPA"
+        ],
+        "ora_6": [
+            "GIOVANNONE"
+        ]
+    },
+    "Martedì": {
+        "ora_1": [
+            "LANCIANI"
+        ],
+        "ora_2": [
+            "D'ONOFRIO",
+            "SAMANI"
+        ],
+        "ora_3": [
+            "[PRIMI]",
+            "SAMANI"
+        ],
+        "ora_4": [
+            "FOLCA",
+            "SAMANI"
+        ],
+        "ora_5": [
+            "MAURO",
+            "SAMANI"
+        ],
+        "ora_6": [
+            "CICCARELLI"
+        ]
+    },
+    "Mercoledì": {
+        "ora_1": [
+            "SCHIOPPA",
+            "SAMANI"
+        ],
+        "ora_2": [
+            "[FISICA]",
+            "SAMANI"
+        ],
+        "ora_3": [
+            "LANCIANI",
+            "SAMANI"
+        ],
+        "ora_4": [
+            "D'ONOFRIO"
+        ],
+        "ora_5": [
+            "BELLIS"
+        ],
+        "ora_6": [
+            "BELLIS"
+        ]
+    },
+    "Giovedì": {
+        "ora_1": [
+            "D'ONOFRIO",
+            "SAMANI"
+        ],
+        "ora_2": [
+            "FOLCA",
+            "SAMANI"
+        ],
+        "ora_3": [
+            "[PRIMI]",
+            "SAMANI"
+        ],
+        "ora_4": [
+            "SCHIOPPA",
+            "SAMANI"
+        ],
+        "ora_5": [
+            "MAGLIOCCHETTI"
+        ],
+        "ora_6": [
+            "SPIRITO",
+            "[FISICA]"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "[FISICA]",
+            "SAMANI"
+        ],
+        "ora_2": [
+            "GIOVANNONE",
+            "SAMANI"
+        ],
+        "ora_3": [
+            "CICCARELLI",
+            "SAMANI"
+        ],
+        "ora_4": [
+            "ZACCARI",
+            "[PRIMI]"
+        ],
+        "ora_5": [
+            "FOLCA"
+        ],
+        "ora_6": [
+            "D'ONOFRIO"
+        ]
+    }
+}
