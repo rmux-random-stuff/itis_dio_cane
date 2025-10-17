@@ -58,15 +58,17 @@
         "ora_3": [
             "BRAGALONE"
         ],
-        "ora_4": [],
-        "ora_5": [
+        "ora_4": [
             "BRAGALONE"
         ],
-        "ora_6": [
+        "ora_5": [
             "ATTI"
         ],
-        "ora_7": [
+        "ora_6": [
             "MAURO"
+        ],
+        "ora_7": [
+            "MARCOCCIA"
         ]
     },
     "Giovedì": {
@@ -115,3 +117,4 @@
         ]
     }
 }
+
