@@ -1,48 +1,50 @@
 {
     "Lunedì": {
         "ora_1": [
-            "SACCHETTI",
             "VARONE"
         ],
         "ora_2": [
-            "MARCOCCIA"
+            "SACCHETTI"
         ],
         "ora_3": [
-            "SCHIAVI"
+            "MARCOCCIA"
         ],
         "ora_4": [
-            "MASSA",
-            "ATTI"
+            "SCHIAVI"
         ],
         "ora_5": [
             "MASSA",
             "ATTI"
         ],
         "ora_6": [
+            "MASSA",
             "ATTI"
         ]
     },
     "Martedì": {
         "ora_1": [
-            "MASSA",
-            "CIPRIANI"
+            "ATTI"
         ],
         "ora_2": [
             "MASSA",
             "CIPRIANI"
         ],
         "ora_3": [
-            "NICOLIA",
-            "VARONE"
+            "MASSA",
+            "CIPRIANI"
         ],
         "ora_4": [
             "NICOLIA",
             "VARONE"
         ],
         "ora_5": [
-            "MARCOCCIA"
+            "NICOLIA",
+            "VARONE"
         ],
         "ora_6": [
+            "MARCOCCIA"
+        ],
+        "ora_7": [
             "SACCHETTI"
         ]
     },
@@ -56,54 +58,56 @@
         "ora_3": [
             "BRAGALONE"
         ],
-        "ora_4": [
-            "ATTI"
-        ],
+        "ora_4": [],
         "ora_5": [
-            "MAURO"
+            "BRAGALONE"
         ],
         "ora_6": [
-            "MARCOCCIA"
+            "ATTI"
+        ],
+        "ora_7": [
+            "MAURO"
         ]
     },
     "Giovedì": {
         "ora_1": [
-            "VARONE"
+            "MARCOCCIA"
         ],
         "ora_2": [
-            "SACCHETTI"
+            "VARONE"
         ],
         "ora_3": [
             "SACCHETTI"
         ],
         "ora_4": [
+            "SACCHETTI"
+        ],
+        "ora_5": [
             "MASSA",
             "CIPRIANI"
         ],
-        "ora_5": [
-            "CIPRIANI",
-            "SCHIAVI"
-        ],
         "ora_6": [
             "CIPRIANI"
+        ],
+        "ora_7": [
+            "SCHIAVI"
         ]
     },
     "Venerdì": {
         "ora_1": [
-            "ATTI"
+            "CIPRIANI"
         ],
         "ora_2": [
-            "MARCOCCIA"
+            "ATTI"
         ],
         "ora_3": [
-            "SACCHETTI"
+            "MARCOCCIA"
         ],
         "ora_4": [
             "SACCHETTI"
         ],
         "ora_5": [
-            "NICOLIA",
-            "CIPRIANI"
+            "SACCHETTI"
         ],
         "ora_6": [
             "NICOLIA",
