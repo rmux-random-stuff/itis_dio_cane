@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ITIS Don Morosini Ferentino Timetable Schema",
+  "description": "Schema for storing per-class timetables for ITIS Don Morosini Ferentino",
+  "type": "object",
+  "properties": {
+    "school": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "School name"
+        },
+        "location": {
+          "type": "string",
+          "description": "School location"
+        },
+        "year": {
+          "type": "string",
+          "description": "Academic year (e.g., 2023-2024)"
+        }
+      },
+      "required": ["name", "location", "year"]
+    },
+    "classes": {
+      "type": "array",
+      "description": "List of classes and their timetables",
+      "items": {
+        "type": "object",
+        "properties": {
+          "class_id": {
+            "type": "string",
+            "description": "Class identifier (e.g., 1A, 2B, 3C)"
+          },
+          "section": {
+            "type": "string",
+            "description": "Section name"
+          },
+          "year": {
+            "type": "integer",
+            "description": "Year/grade level",
+            "minimum": 1,
+            "maximum": 5
+          },
+          "timetable": {
+            "type": "object",
+            "description": "Weekly timetable",
+            "properties": {
+              "Monday": {
+                "$ref": "#/definitions/day_schedule"
+              },
+              "Tuesday": {
+                "$ref": "#/definitions/day_schedule"
+              },
+              "Wednesday": {
+                "$ref": "#/definitions/day_schedule"
+              },
+              "Thursday": {
+                "$ref": "#/definitions/day_schedule"
+              },
+              "Friday": {
+                "$ref": "#/definitions/day_schedule"
+              },
+              "Saturday": {
+                "$ref": "#/definitions/day_schedule"
+              }
+            },
+            "required": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+          }
+        },
+        "required": ["class_id", "section", "year", "timetable"]
+      }
+    }
+  },
+  "required": ["school", "classes"],
+  "definitions": {
+    "day_schedule": {
+      "type": "array",
+      "description": "List of lessons for a day",
+      "items": {
+        "type": "object",
+        "properties": {
+          "period": {
+            "type": "integer",
+            "description": "Period number (1-8)"
+          },
+          "start_time": {
+            "type": "string",
+            "description": "Start time in HH:MM format",
+            "pattern": "^([0-1][0-9]|2[0-3]):[0-5][0-9]$"
+          },
+          "end_time": {
+            "type": "string",
+            "description": "End time in HH:MM format",
+            "pattern": "^([0-1][0-9]|2[0-3]):[0-5][0-9]$"
+          },
+          "subject": {
+            "type": "string",
+            "description": "Subject name"
+          },
+          "teacher": {
+            "type": "string",
+            "description": "Teacher name"
+          },
+          "room": {
+            "type": "string",
+            "description": "Room/classroom number"
+          }
+        },
+        "required": ["period", "start_time", "end_time", "subject"]
+      }
+    }
+  }
+}
