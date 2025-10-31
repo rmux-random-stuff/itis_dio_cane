@@ -60,7 +60,9 @@
         "ora_5": [
             "SACCHETTI"
         ],
-        "ora_6": [],
+        "ora_6": [
+            "NICOLIA",
+            "VARONE"],
         "ora_7": [
             "NICOLIA",
             "VARONE"
@@ -119,3 +121,4 @@
         ]
     }
 }
+
