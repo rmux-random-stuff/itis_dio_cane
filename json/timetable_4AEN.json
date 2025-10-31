@@ -1,7 +1,7 @@
 {
     "Lunedì": {
         "ora_1": [
-            "VARONE"
+            "SACCHETTI"
         ],
         "ora_2": [
             "SACCHETTI"
@@ -10,42 +10,38 @@
             "MARCOCCIA"
         ],
         "ora_4": [
-            "SCHIAVI"
+            "ATTI"
         ],
         "ora_5": [
-            "MASSA",
-            "ATTI"
+            "BRAGALONE"
         ],
         "ora_6": [
-            "MASSA",
-            "ATTI"
+            "BRAGALONE"
         ]
     },
     "Martedì": {
         "ora_1": [
+            "MASSA",
             "ATTI"
         ],
         "ora_2": [
             "MASSA",
-            "CIPRIANI"
+            "ATTI"
         ],
         "ora_3": [
-            "MASSA",
-            "CIPRIANI"
+            "SCHIAVI"
         ],
         "ora_4": [
-            "NICOLIA",
             "VARONE"
         ],
         "ora_5": [
-            "NICOLIA",
-            "VARONE"
+            "BRESSAN"
         ],
         "ora_6": [
             "MARCOCCIA"
         ],
         "ora_7": [
-            "SACCHETTI"
+            "CIPRIANI"
         ]
     },
     "Mercoledì": {
@@ -53,68 +49,73 @@
             "SCHIAVI"
         ],
         "ora_2": [
-            "BRESSAN"
-        ],
-        "ora_3": [
-            "BRAGALONE"
-        ],
-        "ora_4": [
-            "BRAGALONE"
-        ],
-        "ora_5": [
             "ATTI"
         ],
-        "ora_6": [
-            "MAURO"
-        ],
-        "ora_7": [
+        "ora_3": [
             "MARCOCCIA"
+        ],
+        "ora_4": [
+            "SACCHETTI"
+        ],
+        "ora_5": [
+            "SACCHETTI"
+        ],
+        "ora_6": [],
+        "ora_7": [
+            "NICOLIA",
+            "VARONE"
         ]
     },
     "Giovedì": {
         "ora_1": [
+            "NICOLIA",
             "VARONE"
         ],
         "ora_2": [
-            "SACCHETTI"
+            "MARCOCCIA"
         ],
         "ora_3": [
-            "SACCHETTI"
+            "MASSA",
+            "CIPRIANI"
         ],
         "ora_4": [
             "MASSA",
             "CIPRIANI"
         ],
         "ora_5": [
+            "MAURO"
+        ],
+        "ora_6": [
+            "CIPRIANI"
+        ],
+        "ora_7": [
+            "SACCHETTI"
+        ]
+    },
+    "Venerdì": {
+        "ora_1": [
+            "SACCHETTI"
+        ],
+        "ora_2": [
+            "ATTI"
+        ],
+        "ora_3": [
+            "NICOLIA",
+            "CIPRIANI"
+        ],
+        "ora_4": [
+            "NICOLIA",
+            "CIPRIANI"
+        ],
+        "ora_5": [
+            "MASSA",
             "CIPRIANI"
         ],
         "ora_6": [
             "SCHIAVI"
         ],
         "ora_7": [
-            "CIPRIANI"
-        ]
-    },
-    "Venerdì": {
-        "ora_1": [
-            "ATTI"
-        ],
-        "ora_2": [
-            "MARCOCCIA"
-        ],
-        "ora_3": [
-            "SACCHETTI"
-        ],
-        "ora_4": [
-            "SACCHETTI"
-        ],
-        "ora_5": [
-            "NICOLIA",
-            "CIPRIANI"
-        ],
-        "ora_6": [
-            "NICOLIA",
-            "CIPRIANI"
+            "VARONE"
         ]
     }
 }
